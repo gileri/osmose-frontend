@@ -26,8 +26,8 @@
     "popper.js": "^1.15.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
     "babel-loader": "^8.0.6",
     "base64-image-loader": "^1.2.0",
     "css-loader": "^0.28.7",
